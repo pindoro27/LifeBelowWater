@@ -1,10 +1,12 @@
 # Coral Reef Restoration & Community Empowerment in Philippines
 
+The project aims to protect and rejuvenate coral reefs while empowering local communities to lead sustainable lifestyles. By restoring degraded reefs using innovative techniques, reducing pollution, promoting eco-friendly fishing, and advocating for responsible coastal development, the project addresses critical threats to marine ecosystems. Simultaneously, it fosters community involvement through education, skill-building, and support for sustainable tourism and conservation businesses, creating a harmonious balance between environmental protection and economic growth.
+
+![image](https://github.com/user-attachments/assets/d6da5dbf-b019-425a-9c0c-abd91b92f747)
+
 ## Project Goals:
 
  **Restore degraded coral reefs**: Implement effective coral reef restoration techniques (e.g., coral nurseries, micro-fragmentation, coral gardening) to increase coral cover and biodiversity.
-   
-![image](https://github.com/user-attachments/assets/d6da5dbf-b019-425a-9c0c-abd91b92f747)
 
  **Reduce local threats**:
    - **Minimize pollution**: Implement waste management programs (reduce single-use plastics, improve sewage treatment) to prevent pollution from reaching the reefs.
