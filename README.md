@@ -4,7 +4,7 @@
 
  **Restore degraded coral reefs**: Implement effective coral reef restoration techniques (e.g., coral nurseries, micro-fragmentation, coral gardening) to increase coral cover and biodiversity.
    
-- ![image](https://github.com/user-attachments/assets/d6da5dbf-b019-425a-9c0c-abd91b92f747)
+![image](https://github.com/user-attachments/assets/d6da5dbf-b019-425a-9c0c-abd91b92f747)
 
  **Reduce local threats**:
    - **Minimize pollution**: Implement waste management programs (reduce single-use plastics, improve sewage treatment) to prevent pollution from reaching the reefs.
